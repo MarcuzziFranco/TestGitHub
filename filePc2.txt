@@ -1,2 +1,2 @@
 Este es el segundo archivo creado desde el pc
-Sin modificaciones...
+Para enviar a github
